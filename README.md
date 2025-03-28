@@ -2,11 +2,11 @@
 
 ## A Little About Me: 
 
-🏫 Attending UT Austin or UT Dallas for Computer Sci Soon
-🌱 Advancing in Python
-🎸 Guitar Enthusiast
-💻 Aspiring AI & ML Engineer 
-🌟 Fact: If AI doesn't take over the world, I might.
+🏫 Attending UT Austin or UT Dallas for Computer Sci Soon  
+🌱 Advancing in Python  
+🎸 Guitar Enthusiast  
+💻 Aspiring AI & ML Engineer  
+🌟 Fact: If AI doesn't take over the world, I might.  
 
 
 ## 🌐 Socials:
